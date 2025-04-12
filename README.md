@@ -11,39 +11,36 @@
 - 📚 **"O futuro da humanidade depende de como usamos a tecnologia."** – *Stephen Hawking*
 
 - 
-![Suelem's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=radical)
+<h1 align="center">Hi 👋, I'm Suelem Martins</h1>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SuelemMartins&label=Profile%20views&color=0e75b6&style=flat" alt="SuelemMartins" /> </p>
+<h3 align="center">A passionate developer transitioning to the tech world and constantly learning.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SuelemMartins&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="SuelemMartins" /> </p>
-<h3 align="center">Desenvolvedora apaixonada por tecnologia e em constante aprendizado.</h3>
-
-<h2 align="center">Conecte-se comigo:</h2>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://instagram.com/SuelemMartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/SuelemMartins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/suelem4567?igsh=dGM5YXJtd2NqOTJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/suelem-martins-0248b3220?fbclid=PAY2xjawJny7BleHRuA2FlbQIxMQABp0NS6JVtrBM8sa3biA39hJxgPo6cL8NwdiWmH_MUk_Bh-KAXpO2b1fMOlwcg_aem_AdKKdXxrpq98zlCXSb4Gjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Linguagens e Ferramentas:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -77,18 +74,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuelemMartins/SuelemMartins/blob/output/github-snake.svg" />
     <img alt="github-snake" src="https://github.com/SuelemMartins/SuelemMartins/blob/output/ocean.gif" />
   </picture>
-</div>
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  <a href="suelem0696" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
-  </a>
-  <a href="suelemnascinto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=blak&labelColor=&style=flat" height="35" alt="linkedin logo"  />
 </div>
 
 ## 🚀 Habilidades & Tecnologias  
