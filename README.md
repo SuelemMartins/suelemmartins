@@ -3,7 +3,7 @@
 <span style="color:#FF1493">💡➡️💻**Transformando ideias em código** | 📊 **Formada em Gestão Financeira** | 🎓 **Cursando Análise e Desenvolvimento de Sistemas**</span>  
 
 ### <span style="color:#FF1493">🚀 Sobre mim</span>  
-- 📈 Migrando da área financeira para tecnologia.  -
+- 📈 Migrando da área financeira para tecnologia.  
 - ✅ Concluí o curso de Desenvolvedor de Web (200 horas) no Instituto Catarinese. 
 - 🎯 Aprimorando minhas habilidades em **Desenvolvimento Web (HTML, CSS, JavaScript, Node.js), Java e SQL**.  
 - 📚 Atualmente participando do programa **Entra21 - Desenvolvedor Backend Java**.  -  
