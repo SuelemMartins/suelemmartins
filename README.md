@@ -10,11 +10,9 @@
 - 💃 Adoro dançar e aproveitar momentos de descontração.  
 - 📚 **"O futuro da humanidade depende de como usamos a tecnologia."** – *Stephen Hawking*
 
-- 
-<h1 align="center">Hi 👋, I'm Suelem Martins</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuelemMartins&label=Profile%20views&color=0e75b6&style=flat" alt="SuelemMartins" /> </p>
-<h3 align="center">A passionate developer transitioning to the tech world and constantly learning.</h3>
+<h3 align="center">Dando meus primeiros passos no mundo da programação, com entusiasmo e muita vontade de aprender</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -27,24 +25,28 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL icon" width="65" height="65" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
+      <br>Java
     </td>
   </tr>
 </table>
@@ -53,17 +55,17 @@
 <div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&theme=dracula&locale=en&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&theme=dracula&locale=en&layout=compact" alt="SuelemMartins" style="height: 200px;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&theme=radical&locale=en&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&theme=radical&locale=en&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&theme=radical&locale=en&layout=compact" alt="SuelemMartins" style="height: 200px;" />
     </picture>
   </div>
   
   <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=dracula&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=dracula&locale=en" alt="SuelemMartins" style="height: 200px;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=radical&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=radical&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=radical&locale=en" alt="SuelemMartins" style="height: 200px;" />
     </picture>
   </div>
 </div>
