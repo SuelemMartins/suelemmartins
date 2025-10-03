@@ -4,11 +4,9 @@
 
 ### <span style="color:#FF1493">🚀 Sobre mim</span>  
 - 📈 Migrando da área financeira para tecnologia.  
-- ✅ Concluí o curso de Desenvolvedor de Web (200 horas) no Instituto Catarinese. 
-- 🎯 Aprimorando minhas habilidades em **Desenvolvimento Web (HTML, CSS, JavaScript, Node.js), Java e SQL**.  
-- 📚 Atualmente participando do programa **Entra21 - Desenvolvedor Backend Java**.  -  
-- 💃 Adoro dançar e aproveitar momentos de descontração.  
-- 📚 **"O futuro da humanidade depende de como usamos a tecnologia."** – *Stephen Hawking*
+- ✅ concluido a trilha Oracle Next Education (ONE) – Alura (72h – 2025) 
+- 📚 **"O futuro da humanidade depende de como usamos a tecnologia."** – *Stephen Hawking*   
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuelemMartins&label=Profile%20views&color=0e75b6&style=flat" alt="SuelemMartins" /> </p>
@@ -29,16 +27,16 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
-      <br>Node.js
+        <img height="65" />
+      <br>   
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL icon" width="65" height="65" />
       <br>SQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
-      <br>React
+        <img src= />
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git icon" width="65" height="65" />
@@ -88,7 +86,7 @@
 
 📚 **O que estou aprendendo:**  
 🔹 Backend com Java e SQL  
-🔹 Desenvolvimento Full Stack  
+🔹 Desenvolvimento de software  
 🔹 Metodologias Ágeis  
 🔹 Banco de Dados  
 
@@ -105,16 +103,16 @@
 ✔️ Banco de Dados  
 ✔️ Fundamentos de Programação  
 
-💻 **Em seguida, aprofundei meus estudos em Desenvolvimento Web**, explorando tecnologias essenciais para criar aplicações modernas e dinâmicas:  
-✔️ HTML, CSS e JavaScript  
-✔️ Design Responsivo  
-✔️ Frameworks Front-End  
-✔️ Integração com APIs  
+💻 **Em seguida, aprofundei meus estudos na trilha oferecida pela Oracle Next Education (ONE) – Alura (72h – 2025)
+✔️ HTML, CSS e JavaScript 
+✔️ Lógica de programação  
+✔️ Metodologia ágeis  
 ✔️ Versionamento de Código (Git & GitHub)  
+ 
 
-🎓 **Atualmente, estou cursando Análise e Desenvolvimento de Sistemas**, uma experiência desafiadora, mas extremamente enriquecedora! O que mais gostei até agora foi desenvolver projetos utilizando **Kanban e Trello**, aplicando conceitos de **Metodologias Ágeis** para organizar e otimizar o fluxo de trabalho.  
+🎓 **Cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas. Minha maior satisfação é desenvolver software aplicando conceitos de Metodologias Ágeis e ferramentas como Kanban/Trello na gestão do fluxo de trabalho.  
 
-📌 _A cada dia, me aproximo mais do meu objetivo de me tornar uma desenvolvedora Full Stack!_ 🚀  
+📌 _A cada dia, me aproximo mais do meu objetivo de me tornar uma desenvolvedora de software!_ 🚀  
 
 
 ## 🌸 Onde me encontrar?  
