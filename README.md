@@ -1,12 +1,11 @@
 <h2 align="left">Hi 👋! My name is Suelem Martins</h2>
 
-<span style="color:#FF1493">💡➡️💻**Transformando ideias em código** | 📊 **Formada em Gestão Financeira** | 🎓 **Cursando Análise e Desenvolvimento de Sistemas**</span>  
+<span style="color:#FF1493">💡➡️💻**Aprovada para a Bolsa de Estudos do Programa Oracle Next Education (ONE) – Alura** | 📊 **Transição do Financeiro para Tecnologia** | 🎓 **Cursando Análise e Desenvolvimento de Sistemas**</span>  
 
 ### <span style="color:#FF1493">🚀 Sobre mim</span>  
 - 📈 Migrando da área financeira para tecnologia.  
 - ✅ concluido a trilha Oracle Next Education (ONE) – Alura (72h – 2025) 
 - 📚 **"O futuro da humanidade depende de como usamos a tecnologia."** – *Stephen Hawking*   
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuelemMartins&label=Profile%20views&color=0e75b6&style=flat" alt="SuelemMartins" /> </p>
@@ -27,16 +26,8 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img height="65" />
-      <br>   
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL icon" width="65" height="65" />
       <br>SQL
-    </td>
-    <td align="center" width="96">
-        <img src= />
-      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git icon" width="65" height="65" />
@@ -85,7 +76,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 📚 **O que estou aprendendo:**  
-🔹 Backend com Java e SQL  
+🔹 Java e SQL  
 🔹 Desenvolvimento de software  
 🔹 Metodologias Ágeis  
 🔹 Banco de Dados  
@@ -96,7 +87,8 @@
 ---
 ## 🎓 Minha Jornada na Tecnologia  
 
-🚀 **Comecei minha trajetória com um curso na Udemy**, onde aprendi do básico ao avançado em programação javascript. Durante essa fase, desenvolvi conhecimentos sólidos em:  
+🚀 **Comecei minha trajetória com um curso na Udemy**, onde aprendi do básico ao avançado em programação javascript. Durante essa fase, desenvolvi conhecimentos sólidos em:
+
 ✔️ Lógica de Programação  
 ✔️ Estruturas de Controle e Repetição  
 ✔️ Algoritmos  
@@ -104,10 +96,12 @@
 ✔️ Fundamentos de Programação  
 
 💻 **Em seguida, aprofundei meus estudos na trilha oferecida pela Oracle Next Education (ONE) – Alura (72h – 2025)
-✔️ HTML, CSS e JavaScript 
+
+
+✔️ HTML, CSS e JavaScript
 ✔️ Lógica de programação  
 ✔️ Metodologia ágeis  
-✔️ Versionamento de Código (Git & GitHub)  
+✔️ Versionamento de Código (Git & GitHub) 
  
 
 🎓 **Cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas. Minha maior satisfação é desenvolver software aplicando conceitos de Metodologias Ágeis e ferramentas como Kanban/Trello na gestão do fluxo de trabalho.  
