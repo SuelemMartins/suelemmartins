@@ -97,11 +97,24 @@
 
 💻 **Em seguida, aprofundei meus estudos na trilha oferecida pela Oracle Next Education (ONE) – Alura (72h – 2025)
 
-
 ✔️ HTML, CSS e JavaScript
 ✔️ Lógica de programação  
 ✔️ Metodologia ágeis  
 ✔️ Versionamento de Código (Git & GitHub) 
+
+💻 **Curso Concluído: Desenvolvedor Java (300 horas) pelo programa Entra21.
+
+✔️ Lógica de Programação
+✔️ Java (Desenvolvimento Back-end)
+✔️ HTML e CSS (Fundamentos de Front-end)
+✔️ JavaScript
+✔️ Banco de Dados (Modelagem e Operações)
+✔️ Metodologias Ágeis (Ex: Scrum)
+✔️ Versionamento de Código (Git & GitHub)
+✔️ Boas práticas em Programação
+✔️ Fundamentos de Segurança da Informação
+✔️ Soft Skills em TIC (Trabalho em Equipe, Comunicação)
+
  
 
 🎓 **Cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas. Minha maior satisfação é desenvolver software aplicando conceitos de Metodologias Ágeis e ferramentas como Kanban/Trello na gestão do fluxo de trabalho.  
