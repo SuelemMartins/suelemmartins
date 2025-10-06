@@ -83,8 +83,6 @@
 
 🎯 _Sempre em busca de novos aprendizados!_ 🚀  
 
-###
----
 ## 🎓 Minha Jornada na Tecnologia  
 
 🚀 **Comecei minha trajetória com um curso na Udemy**, onde aprendi do básico ao avançado em programação javascript. Durante essa fase, desenvolvi conhecimentos sólidos em:
@@ -97,25 +95,25 @@
 
 💻 **Em seguida, aprofundei meus estudos na trilha oferecida pela Oracle Next Education (ONE) – Alura (72h – 2025)
 
+
 ✔️ HTML, CSS e JavaScript
 ✔️ Lógica de programação  
 ✔️ Metodologia ágeis  
 ✔️ Versionamento de Código (Git & GitHub) 
 
-💻 **Curso Concluído: Desenvolvedor Java (300 horas) pelo programa Entra21.
+### 🛠️ Conhecimentos Adquiridos (Programa Entra21 - 300h)
 
-✔️ Lógica de Programação
-✔️ Java (Desenvolvimento Back-end)
-✔️ HTML e CSS (Fundamentos de Front-end)
-✔️ JavaScript
-✔️ Banco de Dados (Modelagem e Operações)
-✔️ Metodologias Ágeis (Ex: Scrum)
-✔️ Versionamento de Código (Git & GitHub)
-✔️ Boas práticas em Programação
-✔️ Fundamentos de Segurança da Informação
+✔️ Lógica de Programação<br>
+✔️ Java (Desenvolvimento Back-end)<br>
+✔️ HTML e CSS (Fundamentos de Front-end)<br>
+✔️ JavaScript<br>
+✔️ Banco de Dados (Modelagem e Operações)<br>
+✔️ Metodologias Ágeis (Ex: Scrum)<br>
+✔️ Versionamento de Código (Git & GitHub)<br>
+✔️ Boas práticas em Programação<br>
+✔️ Fundamentos de Segurança da Informação<br>
 ✔️ Soft Skills em TIC (Trabalho em Equipe, Comunicação)
 
- 
 
 🎓 **Cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas. Minha maior satisfação é desenvolver software aplicando conceitos de Metodologias Ágeis e ferramentas como Kanban/Trello na gestão do fluxo de trabalho.  
 
