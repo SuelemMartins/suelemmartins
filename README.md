@@ -40,48 +40,39 @@
   </tr>
 </table>
 </div>
+<h2 align="center">🧪 Ferramentas de Testes</h2>
 
-<div style="text-align: center;">
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&theme=radical&locale=en&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&theme=radical&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuelemMartins&show_icons=true&theme=radical&locale=en&layout=compact" alt="SuelemMartins" style="height: 200px;" />
-    </picture>
-  </div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50"/>
+</p>
+
+<p align="center">  
+</p>
+
+
+
   
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=radical&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=radical&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuelemMartins&show_icons=true&theme=radical&locale=en" alt="SuelemMartins" style="height: 200px;" />
-    </picture>
-  </div>
-</div>
 
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SuelemMartins/SuelemMartins/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuelemMartins/SuelemMartins/blob/output/github-snake.svg" />  
-  </picture>
-</div>
+<h2 align="center">🧪 Analista de Software QA</h2>
+<p align="center">
+  ✔️ Automação de testes<br>
+  ✔️ Testes de regressão<br>
+  ✔️ Testes funcionais<br>
+  ✔️ Testes manuais e automatizados<br>
+  ✔️ Testes de API
+</p>
 
-## 🚀 Habilidades & Tecnologias  
+<p align="center">
+  🐞 🔍
+</p>
 
-📌 **Linguagens e Tecnologias:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-📚 **O que estou aprendendo:**  
-🔹 Java e SQL  
-🔹 Desenvolvimento de software  
-🔹 Metodologias Ágeis  
-🔹 Banco de Dados  
-
-🎯 _Sempre em busca de novos aprendizados!_ 🚀  
+<p align="center">🎯 <i>Sempre em busca de novos aprendizados!</i> 🚀</p>
+ 
 
 ## 🎓 Minha Jornada na Tecnologia  
 
@@ -115,7 +106,7 @@
 ✔️ Soft Skills em TIC (Trabalho em Equipe, Comunicação)
 
 
-🎓 **Cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas. Minha maior satisfação é desenvolver software aplicando conceitos de Metodologias Ágeis e ferramentas como Kanban/Trello na gestão do fluxo de trabalho.  
+🎓 **Cursando o 5º Semestre de Análise e Desenvolvimento de Sistemas. Minha maior satisfação é desenvolver software aplicando conceitos de Metodologias Ágeis e ferramentas como Kanban/Trello na gestão do fluxo de trabalho.  
 
 📌 _A cada dia, me aproximo mais do meu objetivo de me tornar uma desenvolvedora de software!_ 🚀  
 
