@@ -9,7 +9,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuelemMartins&label=Profile%20views&color=0e75b6&style=flat" alt="SuelemMartins" /> </p>
-<h3 align="center">Dando meus primeiros passos no mundo da programação, com entusiasmo e muita vontade de aprender</h3>
+<h3 align="center">🚀 𝘈𝘵𝘶𝘢𝘯𝘥𝘰 𝘯𝘢 á𝘳𝘦𝘢 𝘥𝘦 𝘘𝘈, 𝘤𝘰𝘮 𝘧𝘰𝘤𝘰 𝘦𝘮 𝘵𝘦𝘴𝘵𝘦𝘴 𝘦 𝘲𝘶𝘢𝘭𝘪𝘥𝘢𝘥𝘦 𝘥𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦.
+</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -63,7 +64,8 @@
   ✔️ Testes de regressão<br>
   ✔️ Testes funcionais<br>
   ✔️ Testes manuais e automatizados<br>
-  ✔️ Testes de API
+  ✔️ Testes de API    
+</div>
 </p>
 
 <p align="center">
