@@ -42,13 +42,12 @@
 </table>
 </div>
 <h2 align="center">🧪 Ferramentas de Testes</h2>
-<img src="https://github.com/user-attachments/assets/0daa5465-39dc-4907-9a05-3e851e1b9010" width="60">
-<p align="center">
+<p align="center"> <img src="https://github.com/user-attachments/assets/0daa5465-39dc-4907-9a05-3e851e1b9010" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50"/><img src="https://github.com/user-attachments/assets/0daa5465-39dc-4907-9a05-3e851e1b9010" width="60">
 </p>
 
 <p align="center">  
