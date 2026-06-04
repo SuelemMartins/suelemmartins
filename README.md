@@ -1,15 +1,15 @@
 <h2 align="left">Hi 👋! My name is Suelem Martins</h2>
 
-<span style="color:#FF1493">💡➡️💻**Aprovada para a Bolsa de Estudos do Programa Oracle Next Education (ONE) – Alura** | 📊 **Transição do Financeiro para Tecnologia** | 🎓 **Cursando Análise e Desenvolvimento de Sistemas**</span>  
+<span style="color:#FF1493">💻 Atualmente atuando como Desenvolvedora Front-End | 🔍 Experiência em Quality Assurance (QA) e testes de software | 🚀 Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas | 🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 
 ### <span style="color:#FF1493">🚀 Sobre mim</span>  
-- 📈 Migrando da área financeira para tecnologia.  
-- ✅ concluido a trilha Oracle Next Education (ONE) – Alura (72h – 2025) 
+- 💻 Desenvolvedora Front-End | Estudante de Análise e Desenvolvimento de Sistemas.
+- 🚀 Evoluindo continuamente em JavaScript, Vue.js, Java e SQL
 - 📚 **"O futuro da humanidade depende de como usamos a tecnologia."** – *Stephen Hawking*   
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuelemMartins&label=Profile%20views&color=0e75b6&style=flat" alt="SuelemMartins" /> </p>
-<h3 align="center">🚀 𝘈𝘵𝘶𝘢𝘯𝘥𝘰 𝘯𝘢 á𝘳𝘦𝘢 𝘥𝘦 𝘘𝘈, 𝘤𝘰𝘮 𝘧𝘰𝘤𝘰 𝘦𝘮 𝘵𝘦𝘴𝘵𝘦𝘴 𝘦 𝘲𝘶𝘢𝘭𝘪𝘥𝘢𝘥𝘦 𝘥𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦.
+<h3 align="center">🚀𝘈𝘵𝘶𝘢𝘯𝘥𝘰 𝘯𝘢 á𝘳𝘦𝘢 𝘥𝘦 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥, 𝘤𝘰𝘮 𝘧𝘰𝘤𝘰 𝘦𝘮 𝘥𝘦𝘴𝘦𝘯𝘷𝘰𝘭𝘷𝘪𝘮𝘦𝘯𝘵𝘰 𝘥𝘦 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦𝘴, 𝘦𝘹𝘱𝘦𝘳𝘪ê𝘯𝘤𝘪𝘢 𝘥𝘰 𝘶𝘴𝘶á𝘳𝘪𝘰 𝘦 𝘴𝘰𝘭𝘶çõ𝘦𝘴 𝘥𝘪𝘨𝘪𝘵𝘢𝘪𝘴.
 </h3>
 
 <h2 align="center">Connect with me:</h2>
