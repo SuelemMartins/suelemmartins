@@ -51,26 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/0daa5465-39dc-4907-9a05-3e851e1b9010" width="60">
 </p>
-
-<p align="center">  
-</p>
- 
-<h2 align="center">🧪 Analista de Software QA</h2> 
-<p align="center">
-    ✔️ Automação de testes<br>
-  ✔️ Testes de regressão<br>
-  ✔️ Testes funcionais<br>
-  ✔️ Testes manuais e automatizados<br>
-  ✔️ Testes de API    
-</div>
-</p>
-
-<p align="center">
-  🐞 🔍
-</p>
-
-<p align="center">🎯 <i>Sempre em busca de novos aprendizados!</i> 🚀</p>
- 
+<p align="center">🎯 <i>Sempre em busca de novos aprendizados!</i> 🚀</p> 
 
 ## 🎓 Minha Jornada na Tecnologia  
 
