@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Suelem Martins</h2>
 
-<span style="color:#FF1493">💻 Atualmente atuando como Desenvolvedora Front-End | 🔍 Experiência em Quality Assurance (QA) e testes de software | 🚀 Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas | 🎓 Estudante de Análise e Desenvolvimento de Sistemas 
+<span style="color:#FF1493">💻 Atualmente atuando como Desenvolvedora Front-End | 🔍 Experiência em Quality Assurance (QA) e testes de software | 🚀 Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas.
 
 ### <span style="color:#FF1493">🚀 Sobre mim</span>  
 - 💻 Desenvolvedora Front-End | Estudante de Análise e Desenvolvimento de Sistemas.
