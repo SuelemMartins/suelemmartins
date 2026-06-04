@@ -87,7 +87,7 @@
 
 🎓 **Cursando o 5º Semestre de Análise e Desenvolvimento de Sistemas. Minha maior satisfação é desenvolver software aplicando conceitos de Metodologias Ágeis e ferramentas como Kanban/Trello na gestão do fluxo de trabalho.  
 
-📌 _A cada dia, me aproximo mais do meu objetivo de me tornar uma desenvolvedora de software!_ 🚀  
+📌 _Transformando aprendizado em experiência prática através do desenvolvimento de software._ 🚀
 
 
 ## 🌸 Onde me encontrar?  
